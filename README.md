@@ -5,7 +5,8 @@ An interactive Tableau dashboard that explores Netflix's movie and TV show catal
 
 ## Dashboard Preview
 
-![Netflix Dashboard](d:\Netflix.png)
+<img width="1800" height="1000" alt="Netflix" src="https://github.com/user-attachments/assets/c93926c0-22e9-47f9-9677-f31e8d5b8212" />
+
 
 ## Dashboard Highlights
 
